@@ -1,0 +1,5 @@
+exports.addPuductDialog = require('./addPuctDialog.vue')
+exports.gucar = require('./gucar.vue')
+exports.puductInfo = require('./puductInfo.vue')
+exports.treeMenu = require('./treeMenu.vue')
+exports.userList = require('./userLsit.vue')
